@@ -1,5 +1,7 @@
 # 解压航线 / Relaxing Flight Routes
 
+> 目前只有中文版，英文版本等待后续开发 / Chinese only for now, English version coming in a later update.
+
 ## 中文
 
 解压航线 — 飞机沿航线飞行、定时放松的安卓 App。
